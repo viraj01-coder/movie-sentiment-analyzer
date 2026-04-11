@@ -11,7 +11,7 @@ an interactive web application.
 
 Check out the interactive Streamlit app:
 
-**[Launch App](https://your-app-link-here.streamlit.app/)**
+**[Launch App](https://movie-sentiment-analyzer-rrxkbqimw8njc2eqbjjlxu.streamlit.app/)**
 
 ---
 
